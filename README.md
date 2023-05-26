@@ -12,4 +12,3 @@ microservices-in-python
  -Writing Docker Compose file
  -writing Kubernates Manifest files for the application
  -Creating Helm Chart
-
