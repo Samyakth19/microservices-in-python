@@ -1,7 +1,6 @@
 # microservices-in-python
 
 microservices-in-python
-
  -Installing Python 3.x
  -Creating Python Virtual Environments
  -Installing Pytho VS Code Extension
@@ -12,4 +11,3 @@ microservices-in-python
  -Writing Docker Compose file
  -writing Kubernates Manifest files for the application
  -Creating Helm Chart
-
